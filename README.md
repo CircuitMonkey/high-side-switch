@@ -1,2 +1,6 @@
 # high-side-switch
 P-FET based switch with TTL input for switching higher current loads on microcontrollers.
+
+
+![FAB view](Documents/high-side-switch-pcb-image.png)
+![3D Rendering](Documents/high-side-switch-3d-render.png)
